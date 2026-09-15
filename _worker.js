@@ -1,8 +1,9 @@
 import { connect } from "cloudflare:sockets";
 
 // Variables
-let serviceName = "";
-let APP_DOMAIN = "";
+let serviceName = "rendigmakus";
+let APP_DOMAIN = "rendigmakus.pilkainayatuzahro.workers.dev";
+
 
 let prxIP = "";
 let cachedPrxList = [];
