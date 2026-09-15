@@ -2,7 +2,7 @@ import { connect } from "cloudflare:sockets";
 
 // Variables
 let serviceName = "rendigmakus";
-let APP_DOMAIN = "rendigmakus.pilkainayatuzahro.workers.dev";
+let APP_DOMAIN = "pilkainayatuzahro.workers.dev";
 
 
 let prxIP = "";
