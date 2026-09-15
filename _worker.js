@@ -1,7 +1,7 @@
 import { connect } from "cloudflare:sockets";
 
 // Variables
-let serviceName = "rendicapur";
+let serviceName = "rendinaya";
 let APP_DOMAIN = "pilkainayatuzahro.workers.dev";
 
 
